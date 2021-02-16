@@ -23,6 +23,7 @@ namespace TribeControl
         {
             var program = new Program();
             program.MainAsync().GetAwaiter().GetResult();
+            //comment
         }
 
         public async Task MainAsync()
