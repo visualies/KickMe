@@ -10,7 +10,7 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace BaseBot
+namespace TribeControl
 {
     public class Program
     {
